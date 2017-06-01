@@ -13,6 +13,6 @@ or
 
 `git@github.com:jperezdavinchi/fusebox-scoped-package.git`
 
-Go to `fusebox-scoped-package` and execute `npm i` and `npm i ..\fusebox-scoped-package` to perform a local installation.
+Go to `fusebox-scoped-package` and execute `npm i` and `npm i ..\fuse-box-npm-package-seed` to perform a local installation.
 
 Execute `npm run start`
