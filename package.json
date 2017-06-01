@@ -1,0 +1,25 @@
+{
+  "name": "fusebox-scoped-package",
+  "version": "1.0.2",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node ./fuse.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jperezdavinchi/fusebox-scoped-package"
+  },
+  "keywords": [
+    "fuse-box",
+    "npm",
+    "npm package",
+    "TypeScript"
+  ],
+  "author": "devmondo",
+  "license": "MIT",
+  "devDependencies": {
+    "fuse-box": "^2.1.0-beta.1",
+    "typescript": "^2.3.0"
+  }
+}
